@@ -1,0 +1,4 @@
+enum Way{
+    UP,
+    DOWN
+}
